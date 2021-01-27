@@ -1,0 +1,59 @@
+commit c0ebb3073dc609201e0d80e5703a40bb7a10af55
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Tue Jan 26 08:56:15 2021 -0600
+
+    Estructura inicial de la cabecera
+
+commit 2b5e2dafe23f7978f871cc308d46cc97d627b045
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Tue Jan 26 08:48:15 2021 -0600
+
+    Commit al master del blogpost en su version mas reciente
+
+commit b60813be1837f3ebf91c9430f5826bc6fe3ae533
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Tue Jan 26 08:10:19 2021 -0600
+
+    Modificando mi vida
+
+commit 37de04bfb1fc1559ec7bb03f276467de4d83369f
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Tue Jan 26 08:05:12 2021 -0600
+
+    Agredando primer archivo de mi vida
+
+commit 96ebff4e79005a8c80fe5cad892f1054deb2bd05
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Mon Jan 25 08:15:50 2021 -0600
+
+    Remplazo de una version por otra de la historia
+
+commit c0b74e0fd9c3e21f9f65fc98e87b2b6ad00b6630
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Mon Jan 25 08:10:09 2021 -0600
+
+    Cambio de maestria
+
+commit 81edf7466664ef427c25bc51bf4bd2513931679a
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Mon Jan 25 08:09:42 2021 -0600
+
+    Cambio de vida
+
+commit 5e48d6a6d3124d1bb63c568d6ac1ce7caf6fb834
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Mon Jan 25 08:08:57 2021 -0600
+
+    Arranco mi proyecto real con html y css
+
+commit 0b523b1052e0e0f7a4d193ca603fabfd12c728b6
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Mon Jan 25 07:35:09 2021 -0600
+
+    Cambios al archivo de historia
+
+commit fb25c6cf109bf31819c09474e4726203e32dded2
+Author: FGRANADOS <FGRANADO@serviciostmx.com>
+Date:   Mon Jan 25 07:33:14 2021 -0600
+
+    Este es ek primer commit de este archivo
